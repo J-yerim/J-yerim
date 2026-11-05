@@ -1,16 +1,164 @@
-## welcome👋
 
-<!--
-**J-yerim/J-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600" height="190" viewBox="0 0 600 190">
 
-Here are some ideas to get you started:
+  <g shape-rendering="crispEdges">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <!-- Cream clouds -->
+    <g fill="#FFF1BD">
+      <rect x="48" y="36" width="92" height="24"/>
+      <rect x="68" y="20" width="56" height="24"/>
+      <rect x="454" y="34" width="96" height="24"/>
+      <rect x="474" y="18" width="56" height="24"/>
+    </g>
+
+    <!-- Pixel stars -->
+    <g fill="#FFD66E">
+      <path d="M196 28h8v12h12v8h-12v12h-8V48h-12v-8h12z"/>
+      <path d="M390 48h8v12h12v8h-12v12h-8V68h-12v-8h12z"/>
+    </g>
+
+    <!-- Floating lemon -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -7;0 0"
+        dur="2s" repeatCount="indefinite"/>
+
+      <g fill="#FFD65C">
+        <rect x="288" y="40" width="32" height="8"/>
+        <rect x="280" y="48" width="48" height="16"/>
+        <rect x="288" y="64" width="32" height="8"/>
+      </g>
+      <g fill="#FFF1BD">
+        <rect x="296" y="48" width="8" height="8"/>
+        <rect x="304" y="56" width="8" height="8"/>
+      </g>
+      <g fill="#A5C77B">
+        <rect x="304" y="32" width="8" height="8"/>
+        <rect x="312" y="32" width="8" height="8"/>
+      </g>
+    </g>
+
+    <!-- Pixel Moon -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -4;0 0"
+        dur="3s" repeatCount="indefinite"/>
+
+      <g fill="#FFD66E">
+        <rect x="90" y="88" width="24" height="8"/>
+        <rect x="74" y="96" width="40" height="8"/>
+        <rect x="66" y="104" width="48" height="8"/>
+        <rect x="58" y="112" width="56" height="8"/>
+        <rect x="58" y="120" width="56" height="8"/>
+        <rect x="66" y="128" width="48" height="8"/>
+        <rect x="74" y="136" width="40" height="8"/>
+        <rect x="82" y="144" width="32" height="8"/>
+        <rect x="90" y="152" width="24" height="8"/>
+      </g>
+
+      <g fill="#FFF1BD">
+        <rect x="90" y="96" width="16" height="8"/>
+        <rect x="98" y="104" width="16" height="8"/>
+        <rect x="106" y="112" width="8" height="8"/>
+        <rect x="106" y="120" width="8" height="8"/>
+        <rect x="98" y="128" width="16" height="8"/>
+        <rect x="90" y="136" width="16" height="8"/>
+      </g>
+    </g>
+
+    <!-- Pixel Butter -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -4;0 0"
+        dur="2.7s" repeatCount="indefinite"/>
+
+      <!-- Butter wrapper -->
+      <g fill="#E9B94F">
+        <rect x="230" y="116" width="48" height="8"/>
+        <rect x="222" y="124" width="64" height="8"/>
+        <rect x="222" y="132" width="64" height="24"/>
+        <rect x="230" y="156" width="48" height="8"/>
+      </g>
+
+      <!-- Butter top -->
+      <g fill="#FFE17D">
+        <rect x="230" y="100" width="48" height="8"/>
+        <rect x="222" y="108" width="64" height="8"/>
+        <rect x="222" y="116" width="64" height="16"/>
+        <rect x="230" y="132" width="48" height="8"/>
+      </g>
+
+      <!-- Butter highlights -->
+      <g fill="#FFF5CE">
+        <rect x="238" y="108" width="16" height="8"/>
+        <rect x="230" y="116" width="8" height="8"/>
+      </g>
+
+      <!-- Wrapper details -->
+      <g fill="#FFF1BD">
+        <rect x="230" y="140" width="8" height="8"/>
+        <rect x="270" y="140" width="8" height="8"/>
+      </g>
+    </g>
+
+    <!-- Pixel Star -->
+    <g>
+      <animateTransform attributeName="transform"
+        type="translate" values="0 0;0 -5;0 0"
+        dur="2.5s" repeatCount="indefinite"/>
+
+      <g fill="#FFD66E">
+        <rect x="406" y="84" width="16" height="8"/>
+        <rect x="398" y="92" width="32" height="8"/>
+        <rect x="390" y="100" width="48" height="8"/>
+        <rect x="366" y="108" width="96" height="8"/>
+        <rect x="374" y="116" width="80" height="8"/>
+        <rect x="382" y="124" width="64" height="8"/>
+        <rect x="390" y="132" width="48" height="8"/>
+        <rect x="398" y="140" width="32" height="8"/>
+        <rect x="406" y="148" width="16" height="8"/>
+      </g>
+
+      <g fill="#FFF4D1">
+        <rect x="406" y="92" width="8" height="8"/>
+        <rect x="398" y="108" width="16" height="8"/>
+        <rect x="406" y="116" width="8" height="8"/>
+      </g>
+    </g>
+
+    <!-- Tiny Pixel Lemons -->
+    <g fill="#FFD65C">
+      <rect x="142" y="92" width="16" height="8"/>
+      <rect x="134" y="100" width="32" height="16"/>
+      <rect x="142" y="116" width="16" height="8"/>
+
+      <rect x="486" y="140" width="16" height="8"/>
+      <rect x="478" y="148" width="32" height="16"/>
+      <rect x="486" y="164" width="16" height="8"/>
+    </g>
+
+    <!-- Lemon leaves -->
+    <g fill="#A5C77B">
+      <rect x="150" y="84" width="8" height="8"/>
+      <rect x="494" y="132" width="8" height="8"/>
+    </g>
+
+    <!-- Small pixel sparkles -->
+    <g fill="#FFE08A">
+      <rect x="174" y="72" width="8" height="8"/>
+      <rect x="310" y="96" width="8" height="8"/>
+      <rect x="342" y="144" width="8" height="8"/>
+      <rect x="526" y="104" width="8" height="8"/>
+      <rect x="54" y="148" width="8" height="8"/>
+    </g>
+
+    <!-- Tiny cream sparkles -->
+    <g fill="#FFF1BD">
+      <rect x="170" y="132" width="5" height="5"/>
+      <rect x="326" y="80" width="5" height="5"/>
+      <rect x="464" y="72" width="5" height="5"/>
+    </g>
+
+  </g>
+</svg>
